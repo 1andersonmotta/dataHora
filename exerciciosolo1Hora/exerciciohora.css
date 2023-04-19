@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, sans-serif;
+}
+h1{
+    position: relative;
+    font: small-caps 33pt italic;
+    text-align: center;
+    border-radius: 7px;
+    margin-top: 0px;
+    text-shadow: 1px -1px 2px rgba(255, 255, 255, 0.795);
+
+    
+}
+p#res{
+    position: relative;
+    border-radius: 7px;
+    font: small-caps 29pt italic;
+    text-align: center;
+    color: rgb(8, 8, 8);
+    text-shadow: 1px -1px 2px rgba(255, 255, 255, 0.795);
+    
+
+
+    
+}
+img{
+    position: relative;
+    width: 600px;
+    height: 400px;
+    margin-left: 330px;
+    margin-top: -10px;
+    border-radius: 5px;
+    box-shadow: 1px -1px 1px black,0 0 2vw white,0 0 2vw white,0 0 2vw white;
+}
